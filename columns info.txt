@@ -1,0 +1,39 @@
+age: why float?
+
+family_history_with_overweight : family member suffered or suffers from overweight.
+
+FAVC: Frequent consumption of high caloric food. 
+
+FCVC: Frequency of consumption of vegetables.
+
+NCP: Number of main meals  ----> need to be integer
+
+CAEC: Consumption of food between meals
+
+Smoke: 99% No ??
+
+CH2O: Consumption of water daily
+
+SCC: Calories consumption monitoring  3% yes
+
+FAF: Physical activity frequency
+
+TUE: Time using technology devices
+
+CALC: Consumption of alcohol
+
+MTRANS: Transportation used
+ 
+
+univariate
+
+bivariate
+
+multivaite
+
+•Underweight Less than 18.5
+•Normal 18.5 to 24.9
+•Overweight 25.0 to 29.9
+•Obesity I 30.0 to 34.9
+•Obesity II 35.0 to 39.9
+•Obesity III Higher than 40
